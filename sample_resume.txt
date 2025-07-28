@@ -1,0 +1,51 @@
+John Smith
+Software Engineer
+john.smith@email.com | (555) 123-4567 | linkedin.com/in/johnsmith | github.com/johnsmith
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 5 years of expertise in full-stack web development. Proficient in Python, JavaScript, and cloud technologies. Strong background in agile development methodologies and team collaboration.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, JavaScript, Java, SQL
+• Web Technologies: HTML, CSS, React, Node.js
+• Databases: PostgreSQL, MongoDB
+• Cloud Platforms: AWS (EC2, S3, RDS)
+• Tools: Git, Docker, Jenkins
+• Methodologies: Agile, Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Developer | TechCorp Inc. | 2021 - Present
+• Developed and maintained web applications using Python and Django framework
+• Collaborated with cross-functional teams to deliver high-quality software solutions
+• Implemented automated testing procedures, reducing bugs by 30%
+• Mentored junior developers and conducted code reviews
+• Participated in agile sprint planning and daily stand-ups
+
+Software Developer | StartupXYZ | 2019 - 2021
+• Built responsive web applications using React and Node.js
+• Designed and implemented RESTful APIs for mobile and web clients
+• Optimized database queries, improving application performance by 25%
+• Worked closely with product managers to define technical requirements
+• Contributed to the migration of legacy systems to cloud infrastructure
+
+Junior Developer | DevStudio | 2018 - 2019
+• Assisted in developing e-commerce websites using JavaScript and PHP
+• Performed debugging and troubleshooting of existing applications
+• Learned and applied best practices in software development
+• Participated in team meetings and project planning sessions
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2014 - 2018
+• Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
+• GPA: 3.7/4.0
+
+PROJECTS
+• Personal Finance Tracker: Built a web application using React and Python Flask to help users manage their finances
+• Weather API Service: Created a RESTful API using Node.js and Express to provide weather data
+• Chat Application: Developed a real-time chat application using WebSocket technology
+
+CERTIFICATIONS
+• AWS Certified Developer - Associate (2022)
+• Certified Scrum Master (2021)
