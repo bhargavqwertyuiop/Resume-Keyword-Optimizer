@@ -1,0 +1,62 @@
+============================================================
+📊 RESUME KEYWORD OPTIMIZATION REPORT
+============================================================
+
+🎯 **Overall Match Score**: 71.7%
+🤖 **ATS Compatibility**: 44.2%
+📖 **Readability Score**: -3.7
+🔍 **Keyword Density**: 66.15%
+
+👍 **Good**: Your resume has good alignment, but there's room for improvement.
+
+❌ **MISSING HIGH-IMPACT KEYWORDS**
+----------------------------------------
+ 1. financial (industry_term) - 🔴 Critical
+    Context: ...ny that provides cutting-edge financial software solutions to small a......
+ 2. fintech (industry_term) - 🟡 Important
+    Context: ...olutions is a rapidly growing fintech company that provides cutting......
+ 3. innovatetech (industry_term) - 🟡 Important
+    Context: ...Developer - Remote Company: InnovateTech Solutions Location: Remote (U......
+ 4. architecture (industry_term) - 🟡 Important
+    Context: ...ESTful APIs and microservices architecture • Implement automated testing......
+ 5. backend (industry_term) - 🟡 Important
+    Context: ...in Node.js and Express.js for backend development • Experience with......
+ 6. candidate (industry_term) - 🟡 Important
+    Context: ...oud infrastructure. The ideal candidate will have 3-5 years of experi......
+ 7. environment (industry_term) - 🟡 Important
+    Context: ...d other engineers in an agile environment • Deploy and manage applicati......
+ 8. knowledge (industry_term) - 🟡 Important
+    Context: ...a, RDS, S3, CloudFormation) • Knowledge of containerization technolog......
+ 9. modern (industry_term) - 🟡 Important
+    Context: ...oper with strong expertise in modern web technologies and cloud in......
+10. scalable (industry_term) - 🟡 Important
+    Context: ...years of experience building scalable web applications and a passio......
+
+✅ **SUCCESSFULLY MATCHED KEYWORDS**
+----------------------------------------
+1. experience (mentioned 17x)
+2. application (mentioned 55x)
+3. developer (mentioned 41x)
+4. development (mentioned 23x)
+5. stack (mentioned 9x)
+
+💡 **OPTIMIZATION SUGGESTIONS**
+----------------------------------------
+1. 🤖 **ATS Optimization**: Your resume may not pass initial ATS screening. Focus on exact keyword matches from the job description.
+2. ⚠️ **Critical**: Consider restructuring your resume to include more relevant keywords. Use the exact terms from the job posting.
+3. 📧 **Contact Info**: Ensure your email and phone number are clearly visible at the top.
+4. ✅ **Strengths to Emphasize**: You're strong in experience, application, developer. Make sure these are prominent in your summary.
+
+📋 **IMMEDIATE ACTION PLAN**
+----------------------------------------
+1. **Add these critical keywords to your resume:**
+   • financial
+   • fintech
+   • innovatetech
+   • architecture
+   • backend
+
+2. **Review job description again** and ensure you're using exact terminology
+3. **Quantify your achievements** with numbers and metrics
+4. **Tailor your summary** to include top missing keywords
+5. **Test your resume** with different ATS systems if possible

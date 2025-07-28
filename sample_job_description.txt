@@ -1,0 +1,61 @@
+Senior Full Stack Developer - Remote
+
+Company: InnovateTech Solutions
+Location: Remote (US)
+Experience: 3-5 years
+Salary: $90,000 - $130,000
+
+About Us:
+InnovateTech Solutions is a rapidly growing fintech company that provides cutting-edge financial software solutions to small and medium businesses. We're looking for a talented Senior Full Stack Developer to join our engineering team and help build the next generation of financial tools.
+
+Job Description:
+We are seeking an experienced Senior Full Stack Developer with strong expertise in modern web technologies and cloud infrastructure. The ideal candidate will have 3-5 years of experience building scalable web applications and a passion for creating exceptional user experiences.
+
+Key Responsibilities:
+• Design, develop, and maintain scalable web applications using React, Node.js, and TypeScript
+• Build and optimize RESTful APIs and microservices architecture
+• Implement automated testing strategies including unit tests, integration tests, and end-to-end testing
+• Collaborate with product managers, designers, and other engineers in an agile environment
+• Deploy and manage applications on AWS cloud infrastructure (EC2, Lambda, RDS, S3)
+• Optimize application performance and ensure high availability
+• Mentor junior developers and participate in code reviews
+• Contribute to technical architecture decisions and best practices
+• Work with databases including PostgreSQL and Redis for caching
+• Implement CI/CD pipelines using Jenkins or GitHub Actions
+
+Required Skills:
+• 3+ years of experience with JavaScript/TypeScript and modern frameworks (React, Vue.js, or Angular)
+• Strong proficiency in Node.js and Express.js for backend development
+• Experience with relational databases, particularly PostgreSQL or MySQL
+• Hands-on experience with AWS services (EC2, Lambda, RDS, S3, CloudFormation)
+• Knowledge of containerization technologies (Docker, Kubernetes)
+• Experience with version control systems (Git) and collaborative development workflows
+• Understanding of agile development methodologies and Scrum practices
+• Strong problem-solving skills and attention to detail
+• Excellent communication skills and ability to work in a team environment
+
+Preferred Skills:
+• Experience with Python or Java for backend services
+• Knowledge of NoSQL databases (MongoDB, DynamoDB)
+• Familiarity with GraphQL and Apollo
+• Experience with monitoring and logging tools (CloudWatch, ELK stack)
+• Understanding of DevOps practices and infrastructure as code (Terraform, Ansible)
+• Knowledge of financial services or fintech industry
+• Experience with machine learning libraries and data analysis
+• Familiarity with blockchain technologies
+• Bachelor's degree in Computer Science or related field
+
+Benefits:
+• Competitive salary and equity options
+• Comprehensive health, dental, and vision insurance
+• 401(k) with company matching
+• Flexible PTO and work-from-home options
+• Professional development budget
+• Latest MacBook Pro and equipment allowance
+• Team building events and company retreats
+
+Application Process:
+Please submit your resume along with a cover letter explaining your interest in fintech and any relevant project examples. We encourage candidates from all backgrounds to apply.
+
+Equal Opportunity Employer:
+InnovateTech Solutions is committed to creating a diverse and inclusive workplace. We welcome applications from all qualified candidates regardless of race, gender, age, religion, sexual orientation, or disability.
